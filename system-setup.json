@@ -1,0 +1,32 @@
+{
+  "Room-Name": "Example Room",
+  "Help-Phone": "(555) 555-5555",
+  "Help-Email": "help@example.com",
+  "Default-Language": "English",
+  "Room-Text": {
+    "English": {
+      "Sources": ["Source One", "Source Two", "Source Three"],
+      "Pages": ["Home", "Page Two", "Page Three"],
+      "Splash-Text": "Touch to Begin",
+      "Shutdown-Prompt": "Are You Sure You Want to Shut Down the System?",
+      "Shutdown-Yes": "Yes, Shut System Down",
+      "Shutdown-No": "No, Cancel"
+    },
+    "Français": {
+      "Sources": ["Source Un", "Source Deux", "Source Trois"],
+      "Pages": ["Page Un", "Page Deux", "Page Trois"],
+      "Splash-Text": "Touchez par Commencer",
+      "Shutdown-Prompt": "Êtes-vous Sûr que Vous Voulez Arrêter le Système?",
+      "Shutdown-Yes": "Oui, Arrêtez le Système",
+      "Shutdown-No": "Non, Annulez"
+    },
+    "Deutsch": {
+      "Sources": ["Quelle Eins", "Quelle Zwei", "Quelle Drei"],
+      "Pages": ["Page Eins", "Page Zwei", "Page Drei"],
+      "Splash-Text": "Berühren um zu Beginnen",
+      "Shutdown-Prompt": "Möchten Sie das System Wirklich Herunterfahren?",
+      "Shutdown-Yes": "Ja, System Herunterfahren",
+      "Shutdown-No": "Nein, Abbrechen"
+    }
+  }
+}
