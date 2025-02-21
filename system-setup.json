@@ -1,32 +1,38 @@
 {
-  "Room-Name": "Example Room",
-  "Help-Phone": "(555) 555-5555",
-  "Help-Email": "help@example.com",
-  "Default-Language": "English",
-  "Room-Text": {
+  "RoomName": "Example Room",
+  "HelpPhone": "(555) 555-5555",
+  "HelpEmail": "help@example.com",
+  "DefaultLanguage": "English",
+  "RoomText": {
     "English": {
       "Sources": ["Source One", "Source Two", "Source Three"],
-      "Pages": ["Home", "Page Two", "Page Three"],
-      "Splash-Text": "Touch to Begin",
-      "Shutdown-Prompt": "Are You Sure You Want to Shut Down the System?",
-      "Shutdown-Yes": "Yes, Shut System Down",
-      "Shutdown-No": "No, Cancel"
+      "Pages": ["Cameras", "Help", "Home"],
+      "SplashText": "Touch to Begin",
+      "VideoPrivacyPrompt": "Video Privacy",
+      "ZoomInPrompt": "Zoom In",
+      "ZoomOutPrompt": "Zoom Out",
+      "HelpText": "Have you tried turning it off and on again? If that doesn't work, please use the contact information below.",
+      "HelpPhonePrompt": "Call For Assistance:",
+      "HelpEmailPrompt": "Email to Report Issues:",
+      "ShutdownPrompt": "Are You Sure You Want to Shut Down the System?",
+      "ShutdownYes": "Yes, Shut System Down",
+      "ShutdownNo": "No, Cancel"
     },
     "Français": {
       "Sources": ["Source Un", "Source Deux", "Source Trois"],
       "Pages": ["Page Un", "Page Deux", "Page Trois"],
-      "Splash-Text": "Touchez par Commencer",
-      "Shutdown-Prompt": "Êtes-vous Sûr que Vous Voulez Arrêter le Système?",
-      "Shutdown-Yes": "Oui, Arrêtez le Système",
-      "Shutdown-No": "Non, Annulez"
+      "SplashText": "Touchez par Commencer",
+      "ShutdownPrompt": "Êtesvous Sûr que Vous Voulez Arrêter le Système?",
+      "ShutdownYes": "Oui, Arrêtez le Système",
+      "ShutdownNo": "Non, Annulez"
     },
     "Deutsch": {
       "Sources": ["Quelle Eins", "Quelle Zwei", "Quelle Drei"],
       "Pages": ["Page Eins", "Page Zwei", "Page Drei"],
-      "Splash-Text": "Berühren um zu Beginnen",
-      "Shutdown-Prompt": "Möchten Sie das System Wirklich Herunterfahren?",
-      "Shutdown-Yes": "Ja, System Herunterfahren",
-      "Shutdown-No": "Nein, Abbrechen"
+      "SplashText": "Berühren um zu Beginnen",
+      "ShutdownPrompt": "Möchten Sie das System Wirklich Herunterfahren?",
+      "ShutdownYes": "Ja, System Herunterfahren",
+      "ShutdownNo": "Nein, Abbrechen"
     }
   }
 }
