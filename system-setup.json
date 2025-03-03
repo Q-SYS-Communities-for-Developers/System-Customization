@@ -20,19 +20,31 @@
     },
     "Français": {
       "Sources": ["Source Un", "Source Deux", "Source Trois"],
-      "Pages": ["Page Un", "Page Deux", "Page Trois"],
+      "Pages": ["Cameras", "Aide", "Accueil"],
       "SplashText": "Touchez par Commencer",
-      "ShutdownPrompt": "Êtesvous Sûr que Vous Voulez Arrêter le Système?",
+      "VideoPrivacyPrompt": "Confidentialité Vidéo",
+      "ZoomInPrompt": "Zoomer",
+      "ZoomOutPrompt": "Dézoomer",
+      "HelpText": "Avez-vous essayé de l'éteindre et de le rallumer ? Si cela ne fonctionne pas, veuillez utiliser les coordonnées ci-dessous.",
+      "HelpPhonePrompt": "Appelez à l'Aide:",
+      "HelpEmailPrompt": "Envoyez un e-mail pour signaler des problèmes",
+      "ShutdownPrompt": "Êtes-vous Sûr que Vous Voulez Arrêter le Système?",
       "ShutdownYes": "Oui, Arrêtez le Système",
       "ShutdownNo": "Non, Annulez"
     },
     "Deutsch": {
       "Sources": ["Quelle Eins", "Quelle Zwei", "Quelle Drei"],
-      "Pages": ["Page Eins", "Page Zwei", "Page Drei"],
-      "SplashText": "Berühren um zu Beginnen",
-      "ShutdownPrompt": "Möchten Sie das System Wirklich Herunterfahren?",
-      "ShutdownYes": "Ja, System Herunterfahren",
-      "ShutdownNo": "Nein, Abbrechen"
+      "Pages": ["Kameras", "Hilfe", "Home"],
+      "SplashText": "Zum Beginnen berühren",
+      "VideoPrivacyPrompt": "Video Privacy",
+      "ZoomInPrompt": "Zoom In",
+      "ZoomOutPrompt": "Zoom Out",
+      "HelpText": "Hast du versucht es aus und wieder an zu schalten? Falls das nicht funktioniert benutze bitte die Kontaktinformationen weiter unten.",
+      "HelpPhonePrompt": "Hilfe anfragen:",
+      "HelpEmailPrompt": "Email um Probleme zu melden:",
+      "ShutdownPrompt": "Sicher dass du das System herunterfahren möchtest?",
+      "ShutdownYes": "Ja, fahre das System herunter.",
+      "ShutdownNo": "Nein, Abbruch."
     }
   }
 }
