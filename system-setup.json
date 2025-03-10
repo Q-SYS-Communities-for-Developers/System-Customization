@@ -27,7 +27,7 @@
       "ZoomOutPrompt": "Dézoomer",
       "HelpText": "Avez-vous essayé de l'éteindre et de le rallumer ? Si cela ne fonctionne pas, veuillez utiliser les coordonnées ci-dessous.",
       "HelpPhonePrompt": "Appelez à l'Aide:",
-      "HelpEmailPrompt": "Envoyez un e-mail pour signaler des problèmes",
+      "HelpEmailPrompt": "Envoyez un e-mail:",
       "ShutdownPrompt": "Êtes-vous Sûr que Vous Voulez Arrêter le Système?",
       "ShutdownYes": "Oui, Arrêtez le Système",
       "ShutdownNo": "Non, Annulez"
@@ -45,6 +45,34 @@
       "ShutdownPrompt": "Sicher dass du das System herunterfahren möchtest?",
       "ShutdownYes": "Ja, fahre das System herunter.",
       "ShutdownNo": "Nein, Abbruch."
+    },
+    "Spanish": {
+      "Sources": ["Fuente Uno", "Fuente Dos", "Fuente Tres"],
+      "Gapes": ["Cámaras", "Ayuda", "Inicio"],
+      "SplashText": "Toque para Iniciar",
+      "VideoPrivacyPrompt": "Privacidad de Video",
+      "ZoomInPrompt": "Zoom In",
+      "ZoomOutPrompt": "Zoom Out",
+      "HelpText": "¿Ha intentado apagarlo y encenderlo nuevamente? Si eso no funciona, por favor use la información de contacto en la parte inferior. ",
+      "HelpPhonePrompt": "Llame para Recibir Asistencia:",
+      "HelpEmailPrompt": "Enviar un Email para Reportar Problemas:",
+      "ShutdownPrompt": "¿Desea Apagar el Sistema?",
+      "ShutdownYes": "Sí, Apaga el Sistema",
+      "ShutdownNo": "No, Cancelar"
+    },
+    "Portuguese": {
+      "Sources": ["Fonte Um", "Fonte Dois", "Fonte Três"],
+      "Gapes": ["Câmeras", "Ajuda", "Início"],
+      "SplashText": "Toque para Começar",
+      "VideoPrivacyPrompt": "Privacidade de Vídeo",
+      "ZoomInPrompt": "Zoom In",
+      "ZoomOutPrompt": "Zoom Out",
+      "HelpText": "¿Você já tentou desligá-lo e ligá-lo novamente? Se isso não funcionar, use as informações de contato abaixo. ",
+      "HelpPhonePrompt": "Chamada para Assistência:",
+      "HelpEmailPrompt": " Envie um Email para Relatar Problemas:",
+      "ShutdownPrompt": "¿Você quer desligar o sistema?",
+      "ShutdownYes": " Sim, Desligue o Sistema ",
+      "ShutdownNo": " Não, Cancelar "
     }
   }
 }
