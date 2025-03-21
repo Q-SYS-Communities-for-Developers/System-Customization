@@ -38,5 +38,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 - Thank you Eugene Dunn III [@qsc-eugene](https://github.com/qsc-eugene) as always, for the QA support!
 - Thank you to Jonathan Moore [@qsc-jonathanmoore](https://github.com/qsc-jonathanmoore) for the user testing and feedback
-- Thank you to Thomas Bauer [@qsc-thomasbauer](https://github.com/qsc-thomasbauer) for the user testing and feedback, plus german translation
-- Thank you to Luis Pena for spanish and portugese translation
+- Thank you to Thomas Bauer [@qsc-thomasbauer](https://github.com/qsc-thomasbauer) for the user testing and feedback, plus German translation
+- Thank you to Luis Pena [@qsc-luispena](https://github.com/qsc-luispena) for Spanish and Portugese translation
+- Thank you to Sam Zhao [@qsc-samzhao](https://github.com/qsc-samzhao)for the Chinese translation

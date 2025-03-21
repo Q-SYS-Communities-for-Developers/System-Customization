@@ -4,6 +4,34 @@
   "HelpEmail": "help@example.com",
   "DefaultLanguage": "English",
   "RoomText": {
+    "Chinese/中文": {
+      "Sources": ["信号源 1", "信号源 2", "信号源 3"],
+      "Pages": ["摄像机", "帮助", "首页"],
+      "SplashText": "点击开始",
+      "VideoPrivacyPrompt": "隐私模式",
+      "ZoomInPrompt": "放大",
+      "ZoomOutPrompt": "缩小",
+      "HelpText": "您是否尝试过将其关闭并重新打开？如果这不起作用，请使用下面的联系信息",
+      "HelpPhonePrompt": "致电寻求帮助:",
+      "HelpEmailPrompt": "发送电子邮件报告此问题:",
+      "ShutdownPrompt": "确定要关闭系统吗？",
+      "ShutdownYes": "是的，关闭系统",
+      "ShutdownNo": " 取消 "
+    },
+    "Deutsch": {
+      "Sources": ["Quelle Eins", "Quelle Zwei", "Quelle Drei"],
+      "Pages": ["Kameras", "Hilfe", "Home"],
+      "SplashText": "Zum Beginnen berühren",
+      "VideoPrivacyPrompt": "Video Privacy",
+      "ZoomInPrompt": "Zoom In",
+      "ZoomOutPrompt": "Zoom Out",
+      "HelpText": "Hast du versucht es aus und wieder an zu schalten? Falls das nicht funktioniert benutze bitte die Kontaktinformationen weiter unten.",
+      "HelpPhonePrompt": "Hilfe anfragen:",
+      "HelpEmailPrompt": "Email um Probleme zu melden:",
+      "ShutdownPrompt": "Sicher dass du das System herunterfahren möchtest?",
+      "ShutdownYes": "Ja, fahre das System herunter.",
+      "ShutdownNo": "Nein, Abbruch."
+    },
     "English": {
       "Sources": ["Source One", "Source Two", "Source Three"],
       "Pages": ["Cameras", "Help", "Home"],
@@ -32,23 +60,9 @@
       "ShutdownYes": "Oui, Arrêtez le Système",
       "ShutdownNo": "Non, Annulez"
     },
-    "Deutsch": {
-      "Sources": ["Quelle Eins", "Quelle Zwei", "Quelle Drei"],
-      "Pages": ["Kameras", "Hilfe", "Home"],
-      "SplashText": "Zum Beginnen berühren",
-      "VideoPrivacyPrompt": "Video Privacy",
-      "ZoomInPrompt": "Zoom In",
-      "ZoomOutPrompt": "Zoom Out",
-      "HelpText": "Hast du versucht es aus und wieder an zu schalten? Falls das nicht funktioniert benutze bitte die Kontaktinformationen weiter unten.",
-      "HelpPhonePrompt": "Hilfe anfragen:",
-      "HelpEmailPrompt": "Email um Probleme zu melden:",
-      "ShutdownPrompt": "Sicher dass du das System herunterfahren möchtest?",
-      "ShutdownYes": "Ja, fahre das System herunter.",
-      "ShutdownNo": "Nein, Abbruch."
-    },
     "Spanish": {
       "Sources": ["Fuente Uno", "Fuente Dos", "Fuente Tres"],
-      "Gapes": ["Cámaras", "Ayuda", "Inicio"],
+      "Pages": ["Cámaras", "Ayuda", "Inicio"],
       "SplashText": "Toque para Iniciar",
       "VideoPrivacyPrompt": "Privacidad de Video",
       "ZoomInPrompt": "Zoom In",
@@ -62,7 +76,7 @@
     },
     "Portuguese": {
       "Sources": ["Fonte Um", "Fonte Dois", "Fonte Três"],
-      "Gapes": ["Câmeras", "Ajuda", "Início"],
+      "Pages": ["Câmeras", "Ajuda", "Início"],
       "SplashText": "Toque para Começar",
       "VideoPrivacyPrompt": "Privacidade de Vídeo",
       "ZoomInPrompt": "Zoom In",
