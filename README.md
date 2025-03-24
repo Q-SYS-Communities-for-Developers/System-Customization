@@ -4,6 +4,17 @@ This tutorial demonstrates methods for creating a set of controls that can be ad
 
 There are 3 UCIs in this file. The layouts are identical, but the underlying controls vary. The first UCI uses control pins for nearly everything ("no code"). The other two UCIs use scripting for controls. The second UCI uses component controls for room and text controls. The third UCI takes it a step further and incorporates script notifications.
 
+Sample .JSON text is included with multiple languages:
+
+- Chinese
+- Deutsch (German)
+- English
+- French
+- Portugese
+- Spanish
+
+If you speak another language, please submit a pull request and add it in!
+
 ## Getting Started
 
 - See the "01 - Instructions" schematic pages of the design files for instructions on how to use this file
